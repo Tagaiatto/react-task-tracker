@@ -19,7 +19,7 @@ You will also see any lint errors in the console.
 
 ### `npm run server`
 
-Runs the fake backend to provide us some data.
+Runs the fake backend to provide us some data.\
 The data will be requested from this url [http://localhost:5000](http://localhost:5000) once server is up. 
 
 ### `npm run build`
